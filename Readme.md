@@ -45,7 +45,7 @@ I apologize in advance for any inconvenience that my busy schedule may cause in 
 
 
 
-# 🔝 Documentación
+# ✍️ Documentación
 ## Summary.py
 #Analisis #IA #SubDirectorio #MicrosoftWord / # Analysis #AI #SubDirectory #MSWord  
 El archivo Summary.py se encarga de sintetizar todos los archivos encontrados en una sub carpeta de la carpeta de tu proyecto, de esta manera lee archivos word y aplicando la libreria NLTK para hacer síntesis de datos. De modo tal que usando tokenización puede sintetizar de que tratan los archivos. También copia las tablas de los archivos de la subcarpeta en el archivo word de sintesis. En caso de encontrar errores en la lectura de las tablas aplicar el script chtr.py para determinar que tablas contienen errores en los archivos  word. Recordar que python empieza los conteos con indice 0, no 1.  
