@@ -11,7 +11,7 @@ cwvillanuevam@uni.pe
 
 I apologize in advance for any inconvenience that my busy schedule may cause in terms of update delays. Thank you all for your support.
 
-## Lineamientos para colaboración / Collaboration Guidelines.
+## 💻 Lineamientos para colaboración / Collaboration Guidelines.
 1. Si desea corregir algún bug o actualizar algún archivo para agregarle funcionalidades:  
 -Favor de buscar su sección en este archivo Readme.txt en la sección de documentación y/o editar el archivo Documentación.md para editar las funcionalidades y/o correcciones realizadas.  
 -Continuamente se estará revisando los issues  para realizar la actualización de la documentación (por este motivo solicito se comuniquen con migo para poder tener conocimiento de los cambios y darle seguimiento).  
@@ -40,12 +40,12 @@ I apologize in advance for any inconvenience that my busy schedule may cause in 
 -Keep the script as clean as possible, using comments in English or Spanish preferably.  
 -Add your contact information in the collaborators section of this file and/or in the colaboladores.md file.  
 
-## Colaboradores:
+## 🏆 Colaboradores:
 
 
 
 
-# Documentación
+# 🔝 Documentación
 ## Summary.py
 #Analisis #IA #SubDir #Word  
 El archivo Summary.py se encarga de sintetizar todos los archivos encontrados en una sub carpeta de la carpeta de tu proyecto, de esta manera lee archivos word y aplicando la libreria NLTK para hacer síntesis de datos. De modo tal que usando tokenización puede sintetizar de que tratan los archivos. También copia las tablas de los archivos de la subcarpeta en el archivo word de sintesis. En caso de encontrar errores en la lectura de las tablas aplicar el script chtr.py para determinar que tablas contienen errores en los archivos  word. Recordar que python empieza los conteos con indice 0, no 1.
