@@ -1,4 +1,4 @@
-# Descripción / Description
+# 💫 Descripción / Description
 Los archivos de este repositorio de scripts se crearon en lenguaje python por: Carlos Wyller Villanueva Machado utilizando el apoyo, ayuda y colaboración del software IA (you.com) y scripts libres de la web. Si desea explicaciones, detalles, colaborar con correcciones y/o comentarios, comunicarse con mi persona para las coordinaciones respectivas a:
 vmcwyller@gmail.com;
 cwvillanuevam@uni.pe
