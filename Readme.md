@@ -41,7 +41,7 @@ I apologize in advance for any inconvenience that my busy schedule may cause in 
 -Add your contact information in the collaborators section of this file and/or in the colaboladores.md file.  
 
 ## 🏆 Colaboradores:
-
+you.com (IA) / you.com (AI)
 
 
 
